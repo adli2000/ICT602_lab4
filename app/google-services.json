@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "168244647167",
+    "project_id": "lab4-adli",
+    "storage_bucket": "lab4-adli.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168244647167:android:04d329a10266b148dc68ca",
+        "android_client_info": {
+          "package_name": "com.example.lab4_adli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnFTIxeC4PZ0bN_y1bSZt2yt-pirSioQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
